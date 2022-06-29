@@ -1,0 +1,30 @@
+body{
+    background-color: #fbfbfb!important;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+   list-style: none; 
+   padding: 0;
+}
+
+.social-links ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+.social{
+    width: 20px;
+    height: 20px;
+}
